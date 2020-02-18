@@ -40,10 +40,15 @@ This project is relevant in terms of the following educational course goals:
 
 ## Conceptual Design
 My proposed contribution will include a large addition to the current statistic gathering portion of the project. Currently the project only includes expanded ELO calculations and history. I would like to add the ability to sort statistics by various criteria such as games that include:
+
 -A specific subset or combination of players
+
 -A specific range of dates or past x amount of games 
+
 -More specific match facts such as enemies flashes or utility damage
+
 -Incorporation of these features into the UI
+
 
 
 ## Background
