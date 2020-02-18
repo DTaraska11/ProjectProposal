@@ -7,7 +7,7 @@ Faceit-Enhancer is a web-extension for the Faceit platform. Faceit itself is a p
 The enhancer provides extra tools and functionality that “enhance” the player’s experience. This includes things like automation of pre-match processes and extra statistic gathering. It implements this functionality through the use of Faceit’s developer API. The main language used is Javascript along with json and HTML. 
 
 
-![Use Case Image](StellaOwl_PayStation.png)
+![Use Case Image](DominicTaraska_FaceitEnhancer.png)
 
 ## Project Relevance
 This project is relevant in terms of the following educational course goals:
